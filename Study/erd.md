@@ -1,4 +1,4 @@
-![image](https://github.com/janeess/TIL/assets/111561405/4d130802-5014-40eb-b02f-e00af8759886)# erd 개념 참고
+# erd 개념 참고
 https://mslilsunshine.tistory.com/164  
 <br>
 ERD (Entity Relationship Diagram)
