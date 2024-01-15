@@ -1,5 +1,5 @@
 # erd 개념 참고
-https://mslilsunshine.tistory.com/164  
+참고 = https://mslilsunshine.tistory.com/164  
 <br>
 ERD (Entity Relationship Diagram)
 
